@@ -14,7 +14,7 @@ export interface ProfileData {
 export const profile: ProfileData = {
   name: "Luiz Felipe C. Gomes",
   title: "Desenvolvedor Full-Stack",
-  subtitle: "Processo Seletivo FESF-SUS",
+  subtitle: "Processo Seletivo",
   email: "luizfelipecrx@gmail.com",
   phone: "75 98349-0214",
   location: "Feira de Santana, Bahia",

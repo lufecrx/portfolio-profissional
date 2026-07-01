@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Luiz Felipe C. Gomes | Desenvolvedor Full-Stack — Portfólio VidaPlena",
+  title: "Luiz Felipe C. Gomes | Desenvolvedor Full-Stack — Portfólio Profissional",
   description:
-    "Portfólio profissional de Luiz Felipe C. Gomes, desenvolvido para o processo seletivo FESF-SUS. Destaque para o projeto VidaPlena: sistema de gestão em saúde familiar com FastAPI, Next.js e Docker.",
+    "Portfólio profissional de Luiz Felipe C. Gomes, desenvolvido para apresentação técnica. Destaque para o projeto VidaPlena: sistema de gestão em saúde familiar com FastAPI, Next.js e Docker.",
   keywords: ["Full-Stack Developer", "FastAPI", "Next.js", "Docker", "SUS", "VidaPlena"],
   openGraph: {
     title: "Portfólio — Luiz Felipe C. Gomes",
-    description: "Projeto VidaPlena para processo seletivo FESF-SUS",
+    description: "Projeto VidaPlena para apresentação técnica de Luiz Felipe C. Gomes, desenvolvedor Full-Stack.",
     type: "website",
     locale: "pt_BR",
   },

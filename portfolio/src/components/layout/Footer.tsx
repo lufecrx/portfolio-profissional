@@ -6,7 +6,7 @@ export function Footer() {
           &copy; {new Date().getFullYear()} Luiz Felipe C. Gomes. Todos os direitos reservados.
         </p>
         <p className="text-sm text-slate-400 dark:text-slate-500">
-          Desenvolvido para o processo seletivo <span className="font-medium text-teal-600 dark:text-teal-400">FESF-SUS</span>
+          <span className="font-medium text-teal-600 dark:text-teal-400">Portfólio</span> desenvolvido para apresentação técnica. 
         </p>
       </div>
     </footer>

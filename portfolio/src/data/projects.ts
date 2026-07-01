@@ -17,11 +17,11 @@ export const projects: Project[] = [
     links: [
       {
         label: "Repositório 1 — Desenvolvimento Funcional",
-        url: "https://github.com/lufecrx/Selecao-FESF-SUS-1-F.C",
+        url: "https://github.com/lufecrx/gestao-de-saude",
       },
       {
         label: "Repositório 2 — Conteinerização Docker",
-        url: "https://github.com/lufecrx/Selecao-FESF-SUS-2-F.C",
+        url: "https://github.com/lufecrx/gestao-de-saude-docker",
       },
     ],
     featured: true,
