@@ -30,7 +30,7 @@ export const projects: Project[] = [
     id: "yobi",
     name: "Yobi App",
     description:
-      "Cofundador de startup no setor de construção civil. Implementei mais de 10 funcionalidades principais, incluindo fluxos de cadastro e acompanhamento de pedidos, reduzindo o tempo de entrega do MVP para aproximadamente 3 meses.",
+      "A Yobi é um aplicativo voltado para o setor de construção civil e descarte de materiais de construção, com arquitetura full-stack e integração cloud.",
     tags: ["React Native", "TypeScript", "Firebase", "Scrum"],
     links: [
       {
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     id: "papacapim",
     name: "Papacapim",
     description:
-      "Front-end de uma rede social de compartilhamento de textos para dispositivos móveis, utilizando Flutter e Dart.",
+      "Front-end de uma rede social de compartilhamento de textos para dispositivos móveis, utilizando Flutter e Dart, com integração a uma API REST para consumo e gerenciamento de dados.",
     tags: ["Flutter", "Dart"],
     links: [
       {
